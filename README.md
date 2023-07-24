@@ -1,2 +1,1 @@
-# Fast-NU-GPA-Calculator-Cpp
-GPA Calculator code using fast university formula in C++
+Developed a GPA calculator in C++ using OOP principles to match my university's calculation formula. Implemented modular design and efficient algorithms for accurate cumulative GPA calculations. Demonstrated proficiency in C++ programming, OOP concepts, and attention to detail in meeting specific university requirements.
